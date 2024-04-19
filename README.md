@@ -18,4 +18,4 @@ Se hace la suma y el producto de estos dos números y se organiza de menor a may
  - Ejercicio 7 (viaje.py): Calcula cuánto cuesta un viaje según el número de alumnos y días, lo que serán datos que proporcione el ususario.
 Los preciso del trayecto, comida y alojamiento van por defecto.
 
- - 
+ - Ejercicio 8 (prima.py): Calcula la prima de cada camionero según el número de kms recorridos, años y accidentes que haya tenido cuya responsabilidad sea mayor a 20%. 
