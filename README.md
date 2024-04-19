@@ -14,3 +14,8 @@ Se hace la suma y el producto de estos dos números y se organiza de menor a may
  - Ejercicio 5 (adif_descuento.py): calcula descuento de adif en un parque de atracciones
 
  - Ejercicio 6 (microprecesadores.py): Se calcula el descuento según la cantidad de microprocesadores que se soliciten.
+
+ - Ejercicio 7 (viaje.py): Calcula cuánto cuesta un viaje según el número de alumnos y días, lo que serán datos que proporcione el ususario.
+Los preciso del trayecto, comida y alojamiento van por defecto.
+
+ - 
