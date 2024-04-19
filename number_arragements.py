@@ -1,16 +1,16 @@
-# Take input from the user
-num1 = float(input("Enter the first number: "))
-num2 = float(input("Enter the second number: "))
+# Input del ususario
+num1 = float(input("Primer número: "))
+num2 = float(input("Segundo número: "))
 
-# Calculate the product and sum
+# Calcula producto y suma
 product = num1 * num2
 sum = num1 + num2
 
-# Arrange the numbers from biggest to smallest
+# organiza los números de mayor a menor
 numbers = [num1, num2, product, sum]
 numbers.sort(reverse=True)
 
-# Print the arranged numbers
+# output de los números organizados
 print("Arranged numbers from biggest to smallest:")
 for number in numbers:
     print(number)
